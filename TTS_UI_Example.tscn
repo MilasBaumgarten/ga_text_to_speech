@@ -25,17 +25,17 @@ margin_bottom = 298.0
 alignment = 1
 
 [node name="Button" type="Button" parent="Panel/VBoxContainer/HBoxContainer"]
-margin_left = 441.0
+margin_left = 443.0
 margin_right = 510.0
 margin_bottom = 20.0
-text = "Button_1"
+text = "Button 1"
 script = ExtResource( 2 )
 
 [node name="Button2" type="Button" parent="Panel/VBoxContainer/HBoxContainer"]
 margin_left = 514.0
-margin_right = 583.0
+margin_right = 581.0
 margin_bottom = 20.0
-text = "Button_2"
+text = "Button 2"
 script = ExtResource( 2 )
 
 [node name="HBoxContainer2" type="HBoxContainer" parent="Panel/VBoxContainer"]
@@ -45,15 +45,15 @@ margin_bottom = 322.0
 alignment = 1
 
 [node name="Button" type="Button" parent="Panel/VBoxContainer/HBoxContainer2"]
-margin_left = 441.0
+margin_left = 443.0
 margin_right = 510.0
 margin_bottom = 20.0
-text = "Button_3"
+text = "Button 3"
 script = ExtResource( 2 )
 
 [node name="Button2" type="Button" parent="Panel/VBoxContainer/HBoxContainer2"]
 margin_left = 514.0
-margin_right = 583.0
+margin_right = 581.0
 margin_bottom = 20.0
-text = "Button_4"
+text = "Button 4"
 script = ExtResource( 2 )
