@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://addons/ui_keyboard_navigation/other_grab_focus.gd" type="Script" id=1]
-[ext_resource path="res://addons/ga_text_to_speech/button_description.gd" type="Script" id=2]
+[ext_resource path="res://addons/ga_text_to_speech/button_description.py" type="Script" id=2]
 
 [node name="Control" type="Control"]
 anchor_right = 1.0
